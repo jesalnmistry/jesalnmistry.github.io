@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jesal Mistry
+#tagline:          <some tagline>
+#description:      <some description>
+url:              http://jesalnmistry.github.io
+baseurl:          /
+
+author:
+  name:           Jesal Mistry
+  url:            https://twitter.com/jesalnmistry
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/jesalnmistry/jesalnmistry.github.io
