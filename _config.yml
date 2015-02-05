@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Jesal Mistry
 #tagline:          <some tagline>
 #description:      <some description>
-url:              http://jesalnmistry.github.io
+url:              http://blog.jesalmistry.com
 baseurl:          /
 
 author:
