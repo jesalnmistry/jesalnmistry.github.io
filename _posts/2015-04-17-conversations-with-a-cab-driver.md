@@ -15,19 +15,19 @@ Our conversation happened in hindi but for the benefit of the wider audience, I 
 
 ‘Yes’, he said. I’m sure he agreed with my sentiments and what I was trying to say. ‘Sir, it’s actually not that bad today’. I think he was trying to make the conversation more positive. ‘Today is Ambedkar Jayanti, many of the offices have holidays’. Aha! That’s good, less traffic! I told myself.
 
-‘Bhaiya which cab company do you work for?’, I asked. ‘<> cabs’, was his prompt reply. ‘So, right now you are on duty for <> cabs?’, was my next query. ‘No, right now I’m on duty for {} cabs’.
+‘Bhaiya which cab company do you work for?’, I asked. ‘Optimus cabs’, was his prompt reply. ‘So, right now you are on duty for Optimus cabs?’, was my next query. ‘No, right now I’m on duty for Megatron cabs’.
 
-'I didn’t understand that. You work for two cab companies?’, my curiosity started to get the better of me now. ‘Sort of. Officially I work for <> cabs but I work on duty for {} cabs also.’, he said. ‘How is that possible?’ I asked. With a straight face he replied, ’The owner of {} cabs is a relative of <> cabs. So whenever he is short of drivers for his customers, he often asks for drivers from <> cabs to step in’.
+'I didn’t understand that. You work for two cab companies?’, my curiosity started to get the better of me now. ‘Sort of. Officially I work for Optimus cabs but I work on duty for Megatron cabs also.’, he said. ‘How is that possible?’ I asked. With a straight face he replied, ’The owner of Megatron cabs is a relative of Optimus cabs. So whenever he is short of drivers for his customers, he often asks for drivers from Optimus cabs to step in’.
 
-’See, I’ll explain.’, he tired to help me understand how it works. ‘Your company is tied up with {} cabs for pick-up and drop services. So I do that duty in the morning while dropping you and then again in the evening when I’ve to pick you. Other hours apart from that I work for <> cabs.'
+’See, I’ll explain.’, he tired to help me understand how it works. ‘Your company is tied up with Megatron cabs for pick-up and drop services. So I do that duty in the morning while dropping you and then again in the evening when I’ve to pick you. Other hours apart from that I work for Optimus cabs.'
 
 They say that confusion along with curiosity isn’t always the best combination, but little did my mind understand that and so I went on.
 
 ‘Bhaiya, tell me something. How many hours do you work in a day?’ was the next immediate question on my mind. I’d actually call it a concern.
 
-‘I start my day at around 6 AM. Have breakfast & tea, wash the car and get ready for work. I leave my home by 7 AM. My first duty of the day is for {} cabs, which is your drop to office. By 9 - 9:30 AM I switch over to working for <> cabs. In the evening I switch back for {} cabs because I’ve to drop you back home. Then again after that back to <> cabs till might night.'
+‘I start my day at around 6 AM. Have breakfast & tea, wash the car and get ready for work. I leave my home by 7 AM. My first duty of the day is for Megatron cabs, which is your drop to office. By 9 - 9:30 AM I switch over to working for Optimus cabs. In the evening I switch back for Megatron cabs because I’ve to drop you back home. Then again after that back to Optimus cabs till might night.'
 
-That took me some time to digest and then calculate the number of hours he has to work. ‘How many hours do you have to work for <> cabs?’. ‘Around 14 hours for <> cabs and another 4-5 hours for {} cabs. So in total I start at 7 and reach home midnight.’ he said in a firm voice, feeding my curiosity.
+That took me some time to digest and then calculate the number of hours he has to work. ‘How many hours do you have to work for Optimus cabs?’. ‘Around 14 hours for Optimus cabs and another 4-5 hours for Megatron cabs. So in total I start at 7 AM and reach home midnight.’ he said in a firm voice, feeding my curiosity.
 
 He continued, ’some days are worse as I might have to do over time also!’. By now I was dumbstruck. I think he saw that look on my face. He said ‘Sir, now you only tell me, if we are treated like this, we don’t get much time to do anything else. Then in you’ll hear about accidents and it’s the drivers fault because of rash driving, breaking the signal light, dozing off while driving etc.’. I didn’t know what to say.
 
