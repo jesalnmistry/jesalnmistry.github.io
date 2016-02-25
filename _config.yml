@@ -1,3 +1,6 @@
+#gems
+gems: 			  [jekyll-paginate]
+
 # Dependencies
 markdown:         redcarpet
 comments:         True
@@ -5,7 +8,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Jesal Mistry
@@ -14,11 +16,12 @@ title:            Jesal Mistry
 url:              http://jesalnmistry.github.io
 baseurl:          /
 
+paginate: 		  5
+paginate_path: 	  "/blog/page:num/"
+
 author:
   name:           Jesal Mistry
   url:            https://twitter.com/jesalnmistry
-
-paginate:         5
 
 # Custom vars
 version:          0.0.1
