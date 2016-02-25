@@ -14,3 +14,9 @@ My hope is that you, my audience, can relate to and/or comment on my posts. In d
 Do you want your story told, experience shared or thoughts pondered upon by others, but don't have a blog? I encourage guest authors on my blog. So feel free to reach out to me at [@jesalnmistry](https://twitter.com/jesalnmistry).
 
 Happy reading!
+
+{% include image.html
+   img="/assets/jesal_mistry.jpg"
+   title="Jesal Mistry"
+   caption="... and that's me! (:"
+%}

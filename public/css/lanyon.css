@@ -543,3 +543,15 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Custom CSS */
+.image-wrapper {
+  width: 400px;
+  vertical-align: middle;
+  text-align: center;
+
+  .image-caption {
+    color: $grey-color;
+    margin-top: $spacing-unit / 3;
+  }
+}
