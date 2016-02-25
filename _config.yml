@@ -11,8 +11,8 @@ permalink:        pretty
 
 # Setup
 title:            Jesal Mistry
-#tagline:          <some tagline>
-#description:      <some description>
+tagline:          'Providing food for thought.'
+description:      'Made with ♥ by <a href="https://twitter.com/jesalnmistry" target="_blank">@jesalnmistry</a>.'
 url:              http://jesalnmistry.github.io
 baseurl:          /
 
