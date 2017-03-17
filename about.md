@@ -5,7 +5,9 @@ title: About
 
 Hey there visitor, I'm glad that you've somehow stumbled upon my blog!
 
-I'm Jesal Mistry, the owner of this blog. Born in India, raised and schooled in Kuwait, I completed my Computer Engineering from Pune. I've worked as a Software Quality Analyst & Consultant at ThoughtWorks for 3 years.
+I'm Jesal Mistry, the owner of this blog. Born in India, raised and schooled in Kuwait, I completed my Computer Engineering from Pune & I've worked as a Software Quality Analyst Consultant at ThoughtWorks for a little more than 3 years.
+
+Right now I'm back in Kuwait, learning & growing as an aspiring machine shop enthusiast at [@nsmachineshop](https://www.instagram.com/nsmachineshop/).
 
 I like to blog about a wide range of topics that I find interesting. These can be anything from past experiences and conversations with strangers to random thoughts while daydreaming or life learning that I've had. Pretty much anything that'd prove to be stimulating for my Brain.
 
