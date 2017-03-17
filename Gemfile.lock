@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
+    RedCloth (4.2.9-x86-mingw32)
     activesupport (4.2.5.1)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
@@ -20,6 +21,7 @@ GEM
     faraday (0.9.2)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
+    ffi (1.9.10-x86-mingw32)
     gemoji (2.1.0)
     github-pages (51)
       RedCloth (= 4.2.9)
@@ -93,14 +95,19 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.5)
-    mini_portile2 (2.0.0)
+    mini_portile2 (2.1.0)
     minitest (5.8.4)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.6.8.rc3)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
+    nokogiri (1.6.8.rc3-x86-mingw32)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
+    pkg-config (1.1.7)
     posix-spawn (0.3.9)
     public_suffix (1.5.3)
     pygments.rb (0.6.1)
@@ -127,11 +134,13 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  nokogiri (= 1.6.8.rc3)
   pygments.rb
 
 BUNDLED WITH
-   1.11.2
+   1.13.7
