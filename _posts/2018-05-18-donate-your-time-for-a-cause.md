@@ -10,7 +10,7 @@ Fast forward seven months from then to April this year and I’d completed teach
 
 **About Everyday Child**
 
-Everyday Child is an e-learning platform that enables people around the world to donate TIME and empower youth to Learn, Earn, Return. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
+[Everyday Child](https://www.everydaychild.org/) is an e-learning platform that enables people around the world to donate TIME and empower youth to Learn, Earn, Return. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
 
 Each batch comprises of students who are typically in the 18-22 age group. They have different educational backgrounds as some of them are 10th or 12th dropouts, some have completed their high school, while others are studying BCom or an equivalent course.
 
@@ -23,10 +23,22 @@ I still remember the first workshop session clearly because honestly, I was very
 The key to learning and actually implementing any subject of interest is practice. One form of practice is homework. At the end of my first session, I’d asked my students to create their own gmail account which we would use in the future workshop sessions and send me a test email. At the end of every session, I would provide them with simple tasks to complete which would help them get one step closer to using Gmail easily.
 
 After a few days, my inbox was filled with their homework task. I cannot tell you how happy I was that day. Here’s a screenshot of their homework.
+
+{% include image.html
+   img="/assets/gmail_first_homework.png"
+   title="Gmail First Homework"
+   caption="First homework on Gmail."
+%}
  
 **Preparation is key**
 
-After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used xmind to prepare my list of topics for each class. Below is a snapshot of the custom course I prepared. 
+After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used xmind to prepare my list of topics for each class. Below is a snapshot of the custom course I prepared.
+
+{% include image.html
+   img="/assets/xmind_course_breakdown.JPG"
+   title="Course Breakdown on Xmind"
+   caption="Workshop sessions breakdown."
+%}
 
 **Challenges**
 
@@ -37,6 +49,12 @@ The other major challenge was to simply the content to easily understand. Think 
 **Meeting in person**
 
 The Everyday Child learning center is located in Mumbai. I happened to be present there in December and so I took the opportunity to meet my students at the center. I wanted to take a break from teaching my topic so I talked about some of my personal experiences from college and work. It was truly refreshing to talk to the brilliant students of EC.
+
+{% include image.html
+   img="/assets/EC_center_visit.jpg"
+   title="EC Center Visit"
+   caption="My visit to the Everyday Child."
+%}
  
 I think we all underestimate how much knowledge and experience we have to share and I truly believe that knowledge is power and to share it, is an invaluable gift. Simple yet impactful, the Everyday Child e-learning is a brilliant initiative that stands apart from the regular teaching and learning experiences that both teachers and students have. There are a wide range of topics which can be taught and donors from all around the globe can get involved easily. The students are receptive, engaged and always eager to learn more. Their smiles at the end of each workshop just make my day brighter!
 
