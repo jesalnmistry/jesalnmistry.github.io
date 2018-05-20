@@ -27,19 +27,16 @@ After a few days, my inbox was filled with their homework task. I cannot tell yo
 {% include image.html
    img="/assets/gmail_first_homework.png"
    title="Gmail First Homework"
-   caption="First homework on Gmail."
 %}
- 
+<br>
+<br>
 **Preparation is key**
 
 After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used xmind to prepare my list of topics for each class. Below is a snapshot of the custom course I prepared.
 
-{% include image.html
-   img="/assets/xmind_course_breakdown.JPG"
-   title="Course Breakdown on Xmind"
-   caption="Workshop sessions breakdown."
-%}
-
+![Course Breakdown on Xmind](/assets/xmind_course_breakdown.JPG)
+<br>
+<br>
 **Challenges**
 
 One of the challenges I faced was preparing valuable content for the 30 minutes per each workshop session. Cram too much into one class and it becomes difficult for the students to follow. This is something that comes from trial and testing the content. It was important to ask and make sure that the students are following you during the session and also after each class I would ask for feedback from the Vaibhav, who is the coordinator at the center, if the students were able to follow the content taught.
@@ -50,12 +47,9 @@ The other major challenge was to simply the content to easily understand. Think 
 
 The Everyday Child learning center is located in Mumbai. I happened to be present there in December and so I took the opportunity to meet my students at the center. I wanted to take a break from teaching my topic so I talked about some of my personal experiences from college and work. It was truly refreshing to talk to the brilliant students of EC.
 
-{% include image.html
-   img="/assets/EC_center_visit.jpg"
-   title="EC Center Visit"
-   caption="My visit to the Everyday Child."
-%}
- 
+![EC Center Visit](/assets/EC_center_visit.jpg)
+<br>
+<br>
 I think we all underestimate how much knowledge and experience we have to share and I truly believe that knowledge is power and to share it, is an invaluable gift. Simple yet impactful, the Everyday Child e-learning is a brilliant initiative that stands apart from the regular teaching and learning experiences that both teachers and students have. There are a wide range of topics which can be taught and donors from all around the globe can get involved easily. The students are receptive, engaged and always eager to learn more. Their smiles at the end of each workshop just make my day brighter!
 
 If anyone is interested in donating their time to teach but don't know where to look, I'd highly recommend starting their journey with Everyday Child. It has definitely been an enriching experience for me and I'm always look forward to my weekly workshops.
