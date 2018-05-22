@@ -60,7 +60,7 @@ The Everyday Child learning center is located in Mumbai. I happened to be presen
    caption="Visit to Everyday Child Center, Mumbai"
 %}
 
-I think we all underestimate how much knowledge and experience we have to share and I truly believe that knowledge is power and to share it, is an invaluable gift. Simple yet impactful, the Everyday Child e-learning is a brilliant initiative that stands apart from the regular teaching and learning experiences that both teachers and students have. There are a wide range of topics which can be taught and donors from all around the globe can get involved easily. The students are receptive, engaged and always eager to learn more. Their smiles at the end of each workshop just make my day brighter!
+I think we all underestimate how much knowledge and experience we have to share. I truly believe that knowledge is power and to share it, is an invaluable gift. Simple yet impactful, the Everyday Child e-learning is a brilliant initiative that stands apart from the regular teaching and learning experiences that both teachers and students have. There are a wide range of topics which can be taught and donors from all around the globe can get involved easily. The students are receptive, engaged and always eager to learn more. Their smiles at the end of each workshop just make my day brighter!
 
 If anyone is interested in donating their time to teach but don't know where to look, I'd highly recommend starting their journey with Everyday Child. It has definitely been an enriching experience for me and I'm always look forward to my weekly workshops.
 
