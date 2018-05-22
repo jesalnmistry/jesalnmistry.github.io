@@ -20,9 +20,9 @@ Each batch comprises of students who are typically in the 18-22 age group. They 
 I still remember the first workshop session clearly because honestly, I was very nervous. I did not know how the session would turn out to be, given it was the first time I’d taken up such a task. I remember giving a brief introduction about myself and asking for theirs in return. What followed that was basics of e-mail & introduction to the world of Gmail. Little did I notice how the 30 minutes of my first session went by like a breeze. By the end of the class, they now knew how to create their personal Gmail account. 30 minutes is all it took!
 
 {% include image.html
-   img="/assets/first_workshop_session.png"
+   img="/assets/EC_first_workshop_session.png"
    title="First EC Workshop"
-   caption="from the first workshop"
+   caption="First EC workshop"
 %}
 
 **Homework**
@@ -32,7 +32,7 @@ The key to learning and actually implementing any subject of interest is practic
 After a few days, my inbox was filled with their homework task. I cannot tell you how happy I was that day. Here’s a screenshot of their homework.
 
 {% include image.html
-   img="/assets/gmail_first_homework.png"
+   img="/assets/EC_gmail_first_homework.png"
    title="Gmail First Homework"
    caption="First Gmail homework"
 %}
@@ -41,7 +41,7 @@ After a few days, my inbox was filled with their homework task. I cannot tell yo
 
 After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used [Xmind](https://www.xmind.net/) to prepare my list of topics for each class. Below is a small snapshot of the custom course I prepared for the students.
 
-![Course Breakdown on Xmind](/assets/xmind_course_breakdown.JPG)
+![Course Breakdown on Xmind](/assets/EC_xmind_course_breakdown.JPG)
 <br>
 <br>
 **Challenges**
