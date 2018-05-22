@@ -11,7 +11,7 @@ Fast forward seven months from then to April this year and I’ve completed teac
 
 **About Everyday Child**
 
-[Everyday Child](https://www.everydaychild.org/) is an e-learning platform that you (known as a Donor), from anywhere around the world, to donate you TIME empowering youth to learn. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
+<a href="https://www.everydaychild.org/" target="_blank">Everyday Child</a> is an e-learning platform that you (known as a Donor), from anywhere around the world, to donate you TIME empowering youth to learn. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
 
 Each batch comprises of students who are typically in the 18-22 age group. They have different educational backgrounds as some of them are 10th or 12th dropouts, some have completed their high school, while others are studying BCom or an equivalent course.
 
@@ -39,7 +39,7 @@ After a few days, my inbox was filled with their homework task. I cannot tell yo
 
 **Preparation is key**
 
-After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used [Xmind](https://www.xmind.net/) to prepare my list of topics for each class. Below is a small snapshot of the custom course I prepared for the students.
+After a couple of sessions, I could judge their learning speed and I realized that preparing on a week to week basis wasn’t enough to share “valuable” knowledge. What I needed was a proper plan in place. This led me to come up with my version of a syllabus (for a lack of better word). That’s when I spent time chalking out topics that I could teach. I used <a href="https://www.xmind.net/" target="_blank">Xmind</a> to prepare my list of topics for each class. Below is a small snapshot of the custom course I prepared for the students.
 
 ![Course Breakdown on Xmind](/assets/EC_xmind_course_breakdown.JPG)
 <br>
