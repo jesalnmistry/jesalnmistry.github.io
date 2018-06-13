@@ -11,7 +11,7 @@ Fast forward seven months from then to April this year and I’ve completed teac
 
 **About Everyday Child**
 
-<a href="https://www.everydaychild.org/" target="_blank">Everyday Child</a> is an e-learning platform that you (known as a Donor), from anywhere around the world, to donate you TIME empowering youth to learn. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
+<a href="https://www.everydaychild.org/" target="_blank">Everyday Child</a> is an e-learning platform that allows you (known as a Donor), from anywhere around the world, to donate your TIME for empowering youth to learn. You can do this from the comfort of your home, all you need is an internet connection and a google hangouts account.
 
 Each batch comprises of students who are typically in the 18-22 age group. They have different educational backgrounds as some of them are 10th or 12th dropouts, some have completed their high school, while others are studying BCom or an equivalent course.
 
@@ -46,7 +46,7 @@ After a couple of sessions, I could judge their learning speed and I realized th
 <br>
 **Challenges**
 
-One of the challenges I faced was preparing valuable content for the 30 minutes per each workshop session. Cram too much into one class and it becomes difficult for the students to follow. This is something that comes from trial and testing the content. It was important to ask and make sure that the students are following you during the session. In addition to this, after each class I would also ask for feedback from the Vaibhav, who is the coordinator at the center, whether the students were able to follow the content taught. Vaibhav has been really helpful in not only providing valuvable feedback on my sessions but also in clarifying the student's doubts offline.
+One of the challenges I faced was preparing valuable content for the 30 minutes per each workshop session. Cram too much into one class and it becomes difficult for the students to follow. This is something that comes from trial and testing the content. It was important to ask and make sure that the students are following you during the session. In addition to this, after each class I would also ask for feedback from the Vaibhav, who is the coordinator at the center, whether the students were able to follow the content taught. Vaibhav has been really helpful in not only providing precious feedback on my sessions but also in clarifying the student's doubts offline.
 
 The other major challenge was to simplify the content so that the students could easily understand the topics. Think about it. Composing emails is something that we do regularly, so much so that we take this "mundane skill" for granted. However, breaking down the sessions into small meaningful topics for them to understand was a learning curve for me also. Most of these became the significant aspects of my Xmind map.
 
