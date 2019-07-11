@@ -18,4 +18,4 @@ With all this, it becomes important for us to be supportive and caring. Lending 
 
 Never underestimate the power of a simple act of kindness. So, the next time you take that uber, place an order with a waiter, or talking with customer service, don't forget to smile & acknowledge their efforts. You never know, you could just end up making their day!
 
-Because I truly belive that, "People may forget what you said, what you did, but they will never forget how you made them feel." :)
+Because I truly belive that being nice is highly underrated, and that "People may forget what you said, what you did, but they will never forget how you made them feel." :)
